@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5c1f6f0200413d3a0d715c63bdfb167f",
+    "revision": "5b2542c0bd1814f34dab20a8f18dbd6c",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "d8e9100403147231d815",
+    "revision": "1a4361e8427133ac92a1",
     "url": "/portfolio/static/css/main.a48b983d.chunk.css"
   },
   {
-    "revision": "292e0469bac3ffc6cf8f",
-    "url": "/portfolio/static/js/2.83034c54.chunk.js"
+    "revision": "9ea23a7aa54a49442b64",
+    "url": "/portfolio/static/js/2.7d2c3ee0.chunk.js"
   },
   {
     "revision": "4c25d06d95384d1d9cff7a908ed8d725",
-    "url": "/portfolio/static/js/2.83034c54.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.7d2c3ee0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d8e9100403147231d815",
-    "url": "/portfolio/static/js/main.f889e0bc.chunk.js"
+    "revision": "1a4361e8427133ac92a1",
+    "url": "/portfolio/static/js/main.5ed800d0.chunk.js"
   },
   {
     "revision": "0d4bf47b70941af9967b",
@@ -100,16 +100,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/data_science.ebf35d7f.svg"
   },
   {
-    "revision": "75a7107b7739a46950f66de29779eb52",
-    "url": "/portfolio/static/media/deeplearning_ai_logo.75a7107b.png"
-  },
-  {
     "revision": "3e23ca14e7a7c8a7b63d255466749000",
     "url": "/portfolio/static/media/developerActivity.3e23ca14.svg"
-  },
-  {
-    "revision": "63f707f224c8a842ac928c36e3be879a",
-    "url": "/portfolio/static/media/dsc_logo.63f707f2.png"
   },
   {
     "revision": "3bab7a9dc4324f1b2364d25a47fcfcf0",
@@ -204,10 +196,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/googleAssistant.a6addc3f.svg"
   },
   {
-    "revision": "d3fccbe1db76b96f4f320d9c0f7da30c",
-    "url": "/portfolio/static/media/ibm_logo.d3fccbe1.png"
-  },
-  {
     "revision": "51966347a4317cf27d40bdac4d9e56b4",
     "url": "/portfolio/static/media/ibtech_logo.51966347.png"
   },
@@ -220,44 +208,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/ilab_logo.19abb72f.jpeg"
   },
   {
-    "revision": "29152cf756a1facead5393c32e373371",
-    "url": "/portfolio/static/media/intel_logo.29152cf7.jpg"
-  },
-  {
-    "revision": "60ed0bd3f8b99ac1d29e74575f804aaa",
-    "url": "/portfolio/static/media/iu_logo.60ed0bd3.png"
-  },
-  {
     "revision": "5b4a6449747ec61a6d9aa874f2a9ceba",
     "url": "/portfolio/static/media/jsFramework.5b4a6449.svg"
-  },
-  {
-    "revision": "c597fbded5de799dfb9abc3fc4f1c26f",
-    "url": "/portfolio/static/media/legato_logo.c597fbde.png"
   },
   {
     "revision": "83ac24fb968a474c6a63f7a4e9a8f62c",
     "url": "/portfolio/static/media/manOnTable.83ac24fb.svg"
   },
   {
-    "revision": "069938a84edd6ebf383c318e9feb5d4c",
-    "url": "/portfolio/static/media/muffito_logo.069938a8.png"
-  },
-  {
     "revision": "bf858a20e7176972dbb8d3dbc0353375",
     "url": "/portfolio/static/media/multinet_logo.bf858a20.svg"
-  },
-  {
-    "revision": "95a12a2b8c3149cce2175679755c4b4d",
-    "url": "/portfolio/static/media/nptel_logo.95a12a2b.png"
   },
   {
     "revision": "414dfbd98516b39255a3e22ed90b3f7d",
     "url": "/portfolio/static/media/portfolio.414dfbd9.gif"
   },
   {
-    "revision": "2580b12c1cac48c3fa074d60c86c654e",
-    "url": "/portfolio/static/media/profile_image.2580b12c.jpg"
+    "revision": "158ae87106426c7152cee43683146563",
+    "url": "/portfolio/static/media/profile-image.158ae871.jpg"
+  },
+  {
+    "revision": "f0e3c5758ba0bc2f0843e3c524b82457",
+    "url": "/portfolio/static/media/profile-image.f0e3c575.png"
   },
   {
     "revision": "5faf790badc18fa9030f94836ece1df1",
@@ -276,20 +248,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/sabanci_logo.6b3b1bda.svg"
   },
   {
-    "revision": "2c497738be3831492aeb6bdc43f19154",
-    "url": "/portfolio/static/media/stanford_logo.2c497738.png"
-  },
-  {
     "revision": "6ac91b161c2c9934a44f72d75d18142d",
     "url": "/portfolio/static/media/talksCardBack.6ac91b16.svg"
   },
   {
     "revision": "3fa5424232370e3d049c9555d9c440a4",
     "url": "/portfolio/static/media/talksCardBackAlt.3fa54242.svg"
-  },
-  {
-    "revision": "0993e3246bf5146154391a0afef79b03",
-    "url": "/portfolio/static/media/tiktok_logo.0993e324.png"
   },
   {
     "revision": "d63630893eb8cb64af65f395d393c481",
