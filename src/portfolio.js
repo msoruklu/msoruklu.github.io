@@ -24,7 +24,7 @@ const greeting = {
   subTitle:
     "A Data Scientist with a background in Industrial Engineering and a master's degree in Data Science, adept at leveraging advanced analytical techniques to derive actionable insights and solve complex business problems.",
   resumeLink:
-    "https://github.com/msoruklu/portfolio/tree/master/src/assets/files/MutluSoruklu_CV.pdf",
+    "https://github.com/msoruklu/portfolio/blob/master/src/assests/files/MutluSoruklu_CV.pdf",
   portfolio_repository: "https://github.com/msoruklu/msoruklu.github.io",
   githubProfile: "https://github.com/msoruklu",
 };
