@@ -1,7 +1,7 @@
 {
   "private": true,
-  "name": "msorukluPortfolio",
-  "homepage": "https://msoruklu.github.io",
+  "name": "portfolio",
+  "homepage": "msoruklu.github.io/portfolio",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
